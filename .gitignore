@@ -1,0 +1,14 @@
+# Jekyll build artifacts
+
+# Build directories
+_site/
+.jekyll-cache/
+
+# Metadata files
+.jekyll-metadata
+
+# Gemfile lock file
+Gemfile.lock
+
+# Node modules
+node_modules/
