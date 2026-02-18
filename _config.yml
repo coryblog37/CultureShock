@@ -36,17 +36,17 @@ plugins:
 
 defaults:
  # _posts
-     - scope:
+  - scope:
          path: ""
          type: posts
-     values:
-         layout: single
-         author_profile: true
-         read_time: true
-         comments: true
-         share: true
-         related: true
-         autoads: true # like this
+    values:
+        layout: single
+        author_profile: true
+        read_time: true
+        comments: true
+        share: true
+        related: true
+        autoads: true # like this
 
 # Exclude from processing.
 # The following items will not be processed, by default.
