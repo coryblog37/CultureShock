@@ -3,8 +3,9 @@ layout: post
 title: "My First Month Living in Ireland as an American"
 date: 2026-02-18
 categories: life abroad culture shock
+image: /assets/images/image1.jpg
 ---
-
+![Cliffs of Moher]({{page.image}})
 Moving to Ireland has been exciting, confusing, and occasionally hilarious. From the moment I arrived, I realised that even though we speak the same language, we don’t always mean the same things.
 
 ## The Language Isn’t the Same
